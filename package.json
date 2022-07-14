@@ -1,0 +1,14 @@
+{
+  "name": "unocss-issue-1262",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.4",
+    "defu": "^6.0.0",
+    "jiti": "^1.14.0",
+    "unocss": "^0.44.2",
+    "vite": "^3.0.0"
+  }
+}
